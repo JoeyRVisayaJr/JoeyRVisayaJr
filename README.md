@@ -3,16 +3,12 @@
   <!-- Banner -->
   <img src="./assets/joey_banner.gif" alt="Joey Visaya Jr." width="100%" style="border-radius: 10px;" />
 
-  <br/><br/>
-
   <!-- Typing Animation -->
   <p align="center">
     <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1500&color=E5E7EB&center=true&vCenter=true&width=600&lines=Interested+in+system+design;Interested+in+AI+Workflows;Building+things+people+can+actually+use" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1500&color=E5E7EB&center=true&vCenter=true&width=600&height=42&lines=Interested+in+system+design;Interested+in+AI+Workflows;Building+things+people+can+actually+use" alt="Typing SVG" />
     </a>
   </p>
-
-  <br/>
 
   <!-- Social & Contact Buttons -->
   <p align="center">
