@@ -1,0 +1,48 @@
+name: Metrics
+
+on:
+  # Automatically refresh metrics daily at midnight UTC
+  schedule: [{ cron: "0 0 * * *" }]
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+  # Run on push to master branch
+  push: { branches: ["master", "main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Habits & Language Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: JoeyRVisayaJr
+          template: classic
+          base: ""
+          config_timezone: Asia/Manila
+          output_action: commit
+          committer_message: "chore: update habits metrics [skip ci]"
+          filename: assets/github-habits.svg
+
+          # Theme & Monochrome Styling
+          config_theme: terminal
+          config_padding: 0, 8
+
+          # Habits plugin (Recent commits, active hours, days)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+
+          # Languages plugin (Recent language activity)
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_limit: 6
