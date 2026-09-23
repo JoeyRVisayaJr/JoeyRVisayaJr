@@ -40,10 +40,6 @@
   I stay active across hackathons and student organizations to further expand my experience.
 </p>
 
-<p align="center">
-  <img src="./assets/github-habits.svg" alt="Recent Habits & Languages" width="600" />
-</p>
-
 <img src="./assets/Divider.png" width="100%" alt="Divider" />
 
 <!-- Languages & Frameworks -->
@@ -107,7 +103,8 @@
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> My Coding Activity &amp; Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyRVisayaJr&theme=dark&background=000000&border=30363d&stroke=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="Joey's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyRVisayaJr&theme=dark&background=000000&border=30363d&stroke=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="Joey's GitHub Streak Stats" width="390" />
+  <img src="./assets/github-habits.svg" alt="Recent Habits & Languages" width="390" />
 </p>
 
 <p align="center">
