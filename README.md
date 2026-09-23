@@ -14,11 +14,11 @@
 
   <!-- Social & Contact Buttons -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="https://www.datacamp.com/profile/YOUR_DATACAMP" target="_blank"><img src="https://img.shields.io/badge/DATACAMP-03E165?style=for-the-badge&logo=datacamp&logoColor=05192D" alt="DataCamp" /></a>
-    <a href="https://slack.com/YOUR_SLACK" target="_blank"><img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /></a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+    <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.datacamp.com/profile/YOUR_DATACAMP" target="_blank"><img src="https://img.shields.io/badge/DATACAMP-000000?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" /></a>
+    <a href="https://slack.com/YOUR_SLACK" target="_blank"><img src="https://img.shields.io/badge/SLACK-000000?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /></a>
   </p>
 
 </div>
@@ -26,7 +26,7 @@
 <hr style="border: none; height: 2px; background-color: rgba(255, 255, 255, 0.2);" />
 
 <!-- About Me -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" /> About Me</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> About Me</h3>
 
 <p>
   CS student at <b>University of Makati</b> (Expected 2027), focused on <b>web and mobile development</b>.
@@ -45,7 +45,7 @@
 <img src="./assets/Divider.png" width="100%" alt="Divider" />
 
 <!-- Languages & Frameworks -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> Languages & Frameworks</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Languages & Frameworks</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -67,18 +67,18 @@
 <img src="./assets/Divider.png" width="100%" alt="Divider" />
 
 <!-- Tools -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" height="28" /> Tools</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Tools I Use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,docker,vercel,git,postman" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,docker,vercel" alt="Tools" />
   </a>
 </p>
 
 <img src="./assets/Divider.png" width="100%" alt="Divider" />
 
 <!-- Projects -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Projects</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Projects I'm Currently Working On</h3>
 
 <p align="center">
   <a href="https://github.com/JoeyRVisayaJr/SIC-Photobooth-System" target="_blank">
@@ -93,7 +93,7 @@
 <img src="./assets/Divider.png" width="100%" alt="Divider" />
 
 <!-- Awards -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" /> Awards</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Awards I Won</h3>
 
 <p align="center">
   <img src="./assets/Finalist10.svg" alt="EGOVPH Hackathon 2026 - #10 Finalist out of 270 Teams" width="48%" />
@@ -104,8 +104,8 @@
 <img src="./assets/Divider.png" width="100%" alt="Divider" />
 
 <!-- Stats -->
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" height="28" /> Stats</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> My Coding Activity &amp; Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyRVisayaJr&theme=dark&background=000000&border=30363d&stroke=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="Joey's GitHub Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeyRVisayaJr&theme=dark&background=000000&border=30363d&stroke=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="Joey's GitHub Streak Stats" />
 </p>
