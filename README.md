@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="./assets/joey_banner.gif" alt="Joey Visaya Jr." width="100%" style="border-radius: 10px;" />
+  <img src="./assets/joey_banner.gif" alt="Joey Visaya Jr." width="100%" style="border-radius: 10px; margin-bottom: 12px;" />
 
   <!-- Typing Animation -->
   <p align="center">
@@ -21,7 +21,7 @@
 
 </div>
 
-<hr style="border: none; height: 2px; background-color: rgba(255, 255, 255, 0.2);" />
+<hr style="border: none; height: 2px; background-color: rgba(255, 255, 255, 0.2); margin-top: 24px;" />
 
 <!-- About Me -->
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> About Me</h3>
@@ -36,7 +36,7 @@
   I stay active across hackathons and student organizations to further expand my experience.
 </p>
 
-<img src="./assets/Divider.png" width="100%" alt="Divider" />
+<img src="./assets/Divider.png" width="100%" alt="Divider" style="margin-top: 24px;" />
 
 <!-- Languages & Frameworks -->
 <h3 align="left">Languages &amp; Frameworks</h3>
@@ -47,18 +47,15 @@
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/ASP.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Vercel" />
 </p>
 
-<img src="./assets/Divider.png" width="100%" alt="Divider" />
+<img src="./assets/Divider.png" width="100%" alt="Divider" style="margin-top: 24px;" />
 
 <!-- Tools -->
 <h3 align="left">Tools I Use</h3>
@@ -69,7 +66,7 @@
   </a>
 </p>
 
-<img src="./assets/Divider.png" width="100%" alt="Divider" />
+<img src="./assets/Divider.png" width="100%" alt="Divider" style="margin-top: 24px;" />
 
 <!-- Projects -->
 <h3 align="left">Projects I'm Currently Working On</h3>
@@ -83,7 +80,7 @@
   </a>
 </p>
 
-<img src="./assets/Divider.png" width="100%" alt="Divider" />
+<img src="./assets/Divider.png" width="100%" alt="Divider" style="margin-top: 24px;" />
 
 <!-- Awards -->
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> Awards I Won</h3>
@@ -93,7 +90,7 @@
   <img src="./assets/Commercially-Viable.svg" alt="UMak Hackathon 2024 - Most Commercially Viable" width="390" />
 </p>
 
-<img src="./assets/Divider.png" width="100%" alt="Divider" />
+<img src="./assets/Divider.png" width="100%" alt="Divider" style="margin-top: 24px;" />
 
 <!-- Stats -->
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" /> My Coding Activity &amp; Stats</h3>
