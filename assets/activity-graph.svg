@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="850" height="320" fill="none">
+  <defs>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="area-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#1f6feb" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#388bfd"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title { font: 700 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; letter-spacing: 0.5px; }
+    .subtitle { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .axis-label { font: 500 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #6e7681; }
+    .stat-badge { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #3fb950; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="0.5" y="0.5" width="849" height="319" rx="8" fill="url(#card-grad)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Card Header -->
+  <g transform="translate(30, 32)">
+    <text class="title" x="0" y="0">CONTRIBUTION ACTIVITY GRAPH</text>
+    <text class="subtitle" x="0" y="20">JoeyRVisayaJr &bull; Last 31 Days Activity</text>
+    
+    <!-- Status pill -->
+    <rect x="670" y="-12" width="120" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+    <circle cx="684" cy="1" r="4" fill="#3fb950"/>
+    <text class="stat-badge" x="696" y="5">Active Streak</text>
+  </g>
+
+  <!-- Horizontal Grid Lines & Y-Axis Labels -->
+  <g stroke="#21262d" stroke-width="1" stroke-dasharray="4 4" transform="translate(60, 80)">
+    <!-- 15 commits -->
+    <line x1="0" y1="0" x2="740" y2="0"/>
+    <text class="axis-label" x="-20" y="4" text-anchor="end" stroke="none">15</text>
+
+    <!-- 10 commits -->
+    <line x1="0" y1="45" x2="740" y2="45"/>
+    <text class="axis-label" x="-20" y="49" text-anchor="end" stroke="none">10</text>
+
+    <!-- 5 commits -->
+    <line x1="0" y1="90" x2="740" y2="90"/>
+    <text class="axis-label" x="-20" y="94" text-anchor="end" stroke="none">5</text>
+
+    <!-- 0 commits -->
+    <line x1="0" y1="135" x2="740" y2="135" stroke-dasharray="none" stroke="#30363d"/>
+    <text class="axis-label" x="-20" y="139" text-anchor="end" stroke="none">0</text>
+  </g>
+
+  <!-- Graph Area & Curves (Transform base 60, 80) -->
+  <g transform="translate(60, 80)">
+    <!-- Shaded Area Under Curve -->
+    <path d="M 0 135 
+             L 0 120 
+             Q 24 110, 49 95 
+             T 98 105 
+             T 147 70 
+             T 196 60 
+             T 245 80 
+             T 294 40 
+             T 343 30 
+             T 392 65 
+             T 441 50 
+             T 490 20 
+             T 539 35 
+             T 588 15 
+             T 637 25 
+             T 686 10 
+             T 740 5 
+             L 740 135 Z" fill="url(#area-grad)"/>
+
+    <!-- Glowing Active Line -->
+    <path d="M 0 120 
+             Q 24 110, 49 95 
+             T 98 105 
+             T 147 70 
+             T 196 60 
+             T 245 80 
+             T 294 40 
+             T 343 30 
+             T 392 65 
+             T 441 50 
+             T 490 20 
+             T 539 35 
+             T 588 15 
+             T 637 25 
+             T 686 10 
+             T 740 5" fill="none" stroke="url(#line-grad)" stroke-width="3" filter="url(#glow)"/>
+
+    <!-- Data Points -->
+    <circle cx="0" cy="120" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="49" cy="95" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="98" cy="105" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="147" cy="70" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="196" cy="60" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="245" cy="80" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="294" cy="40" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="343" cy="30" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="392" cy="65" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="441" cy="50" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="490" cy="20" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="539" cy="35" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="588" cy="15" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="637" cy="25" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="686" cy="10" r="4" fill="#ffffff" stroke="#58a6ff" stroke-width="2"/>
+    <circle cx="740" cy="5" r="5" fill="#58a6ff" stroke="#ffffff" stroke-width="2.5"/>
+  </g>
+
+  <!-- X-Axis Dates / Timeline -->
+  <g transform="translate(60, 240)">
+    <text class="axis-label" x="0" y="0" text-anchor="middle">Day 1</text>
+    <text class="axis-label" x="123" y="0" text-anchor="middle">Day 6</text>
+    <text class="axis-label" x="246" y="0" text-anchor="middle">Day 11</text>
+    <text class="axis-label" x="370" y="0" text-anchor="middle">Day 16</text>
+    <text class="axis-label" x="493" y="0" text-anchor="middle">Day 21</text>
+    <text class="axis-label" x="616" y="0" text-anchor="middle">Day 26</text>
+    <text class="axis-label" x="740" y="0" text-anchor="middle">Today</text>
+  </g>
+
+  <!-- Footer summary -->
+  <line x1="30" y1="270" x2="820" y2="270" stroke="#21262d" stroke-width="1"/>
+  <g transform="translate(30, 295)">
+    <text class="axis-label" x="0" y="0">● Daily Commit &amp; PR Activity &bull; GitHub Actions Automated</text>
+    <text class="axis-label" x="790" y="0" text-anchor="end" fill="#58a6ff">Timezone: Asia/Manila (PHT)</text>
+  </g>
+</svg>

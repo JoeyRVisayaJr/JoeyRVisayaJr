@@ -111,7 +111,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoeyRVisayaJr&theme=github-compact&bg_color=000000&hide_border=true" alt="Joey's GitHub Activity Graph" width="100%" />
-  </a>
+  <img src="./assets/activity-graph.svg" alt="Joey's GitHub Activity Graph" width="100%" />
 </p>
