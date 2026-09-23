@@ -17,7 +17,9 @@ jobs:
       - name: Generate Habits & Language Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          # Personal Access Token (Classic) used to fetch user-level activity across repos
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: JoeyRVisayaJr
           template: classic
           base: ""
@@ -26,8 +28,7 @@ jobs:
           committer_message: "chore: update habits metrics [skip ci]"
           filename: assets/github-habits.svg
 
-          # Theme & Monochrome Styling
-          config_theme: terminal
+          # Padding
           config_padding: 0, 8
 
           # Habits plugin (Recent commits, active hours, days)
