@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150" fill="none">
+  <style>
+    .header { font: 600 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .description { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .lang-text { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" height="99%" width="99%" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(16, 24)">
+    <!-- Gist Octicon -->
+    <svg viewBox="0 0 16 16" width="16" height="16" fill="#8b949e" x="0" y="0">
+      <path d="M2 1.75C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v12.5A1.75 1.75 0 0 1 12.25 16h-8.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Z"></path>
+      <path d="M4.75 4a.75.75 0 0 1 .75-.75h5a.75.75 0 0 1 0 1.5h-5A.75.75 0 0 1 4.75 4Zm0 3.5a.75.75 0 0 1 .75-.75h5a.75.75 0 0 1 0 1.5h-5a.75.75 0 0 1-.75-.75Zm0 3.5a.75.75 0 0 1 .75-.75h3a.75.75 0 0 1 0 1.5h-3a.75.75 0 0 1-.75-.75Z"></path>
+    </svg>
+    <text class="header" x="24" y="13">KomyutPH</text>
+    <text class="description" x="0" y="38">
+      <tspan x="0" dy="0">Crowdsourced public transit mapping app for</tspan>
+      <tspan x="0" dy="16">informal PUVs using commuter GPS data.</tspan>
+      <tspan x="0" dy="16">Offline-first architecture.</tspan>
+    </text>
+    <g transform="translate(0, 95)">
+      <circle cx="5" cy="5" r="4.5" fill="#3178c6"/>
+      <text class="lang-text" x="15" y="9">TypeScript</text>
+      <g transform="translate(95, 0)">
+        <svg viewBox="0 0 16 16" width="14" height="14" fill="#8b949e" y="0">
+          <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path>
+        </svg>
+        <text class="lang-text" x="18" y="9">Thesis</text>
+      </g>
+    </g>
+  </g>
+</svg>
