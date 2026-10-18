@@ -5,18 +5,18 @@
 
   <!-- Typing Animation -->
   <p align="center">
-    <a href="#">
+    <a href="https://www.youtube.com/watch?v=tcI7bwNRFdI&t=11s" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=20&pause=1500&color=E5E7EB&center=true&vCenter=true&width=600&height=42&lines=Interested+in+system+design;Interested+in+AI+Workflows;Building+things+people+can+actually+use" alt="Interactive typing animation stating: Interested in system design, Interested in AI Workflows, Building things people can actually use" />
     </a>
   </p>
 
   <!-- Social & Contact Buttons -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Profile - Connect with Joey Visaya Jr." /></a>
-    <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact - Send an email to Joey Visaya Jr." /></a>
-    <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile - Joey Visaya Jr." /></a>
-    <a href="https://www.datacamp.com/profile/YOUR_DATACAMP" target="_blank"><img src="https://img.shields.io/badge/DATACAMP-000000?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Profile - Joey Visaya Jr. Learning Achievements" /></a>
-    <a href="https://slack.com/YOUR_SLACK" target="_blank"><img src="https://img.shields.io/badge/SLACK-000000?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Community - Message Joey Visaya Jr." /></a>
+    <a href="https://www.linkedin.com/in/vsyjoey" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Profile - Connect with Joey Visaya Jr." /></a>
+    <a href="mailto:joeysanjose0&#64;gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact - Send an email to Joey Visaya Jr." /></a>
+    <a href="https://www.facebook.com/joey.visaya" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile - Joey Visaya Jr." /></a>
+    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/40d5bea154e87937b6027a15746e9b9b0fc08320" target="_blank"><img src="https://img.shields.io/badge/DATACAMP-000000?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Profile - Joey Visaya Jr. Learning Achievements" /></a>
+    <a href="https://umaksic.slack.com/team/U0BTV1JNUHF" target="_blank"><img src="https://img.shields.io/badge/SLACK-000000?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Community - Message Joey Visaya Jr." /></a>
   </p>
 
 </div>
@@ -72,10 +72,10 @@
 <h3 align="left">Projects I'm Currently Working On</h3>
 
 <p align="center">
-  <a href="https://github.com/JoeyRVisayaJr/SIC-Photobooth-System" target="_blank">
+  <a href="https://github.com/UMak-SIC/sic-photobooth-software" target="_blank">
     <img src="./assets/SIC-Photobooth.svg" alt="SIC Photobooth System - Automated offline-first photo booth desktop software with camera integration, photo frame generation, and receipt printing" width="360" />
   </a>
-  <a href="https://github.com/JoeyRVisayaJr/KomyutPH" target="_blank">
+  <a href="https://komyutph.com/" target="_blank">
     <img src="./assets/KomyutPH.svg" alt="KomyutPH - Community-driven Philippine public transport navigation and commute assistant application" width="360" />
   </a>
 </p>
