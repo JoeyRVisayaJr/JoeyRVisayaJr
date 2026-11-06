@@ -31,14 +31,8 @@ jobs:
           # Padding
           config_padding: 0, 8
 
-          # Habits plugin (Recent commits, active hours, days)
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
+          # Habits plugin disabled due to upstream unhandled bot-commit crash
+          plugin_habits: no
 
           # Languages plugin (Most used and recently used languages)
           plugin_languages: yes
